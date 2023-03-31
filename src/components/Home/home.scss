@@ -38,15 +38,6 @@
             animation: fadeIn 1s 1.2s backwards;
             opacity: 0.6;
         }
-
-        // img{
-        //     width: 32px;
-        //     margin-left: 20px;
-        //     opacity: 0;
-        //     height: auto;
-        //     animation: rotateIn 0.6s linear both;
-        //     animation-delay: 1.2s
-        // }
     }
 
     h2 {
@@ -71,6 +62,26 @@
         margin-top: 25px;
         float: left;
         animation: fadeIn 1s 1.8s backwards;
+
+        &:hover {
+            background: #ffd700;
+            color: #333;
+        }
+    }
+
+    .flat-button-2 {
+        color: #ffd700;
+        font-size: 13px;
+        font-weight: 200;
+        letter-spacing: 4px;
+        font-family: sans-serif;
+        text-decoration: none;
+        padding: 10px 18px;
+        border: 1px solid #ffd700;
+        margin-top: 25px;
+        float: left;
+        animation: fadeIn 1s 1.8s backwards;
+        margin-left: calc(1% + 10px);
 
         &:hover {
             background: #ffd700;

@@ -44,7 +44,7 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am open to work! I am a US Citizen. Please contact me if you have any opportunites that are Remote or are in the Los Angeles or Orange County areas. I am also willing to travel for Hybrid opportunities or relocate to some areas.
+            I am open to work! Please contact me if you have any opportunites that are Remote or are in the Los Angeles or Orange County areas. I am also willing to travel for Hybrid opportunities or relocate to some areas.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
