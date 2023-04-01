@@ -9,13 +9,8 @@
     bottom: 0;
     left: auto;
     margin: auto;
-
-    svg {
-        width: 100%;
-        height: auto;
-        bottom: 0;
-        transform: rotateZ(30deg) !important;
-    }
+    animation: fadeIn 1s 3s;
+    animation-fill-mode: forwards;
 
     .solid-logo {
         position: absolute;
