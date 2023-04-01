@@ -40,7 +40,7 @@ const Home = () => {
                 </h1>
                 <h2> Python | JavaScript | Express | React | Node | Django | MongoDB | SQL </h2>
                 <Link to='/contact' className='flat-button'>CONTACT ME</Link>
-                <a href='public\portfolio\isaiah-lin-resume.pdf' download className='flat-button-2'>DOWNLOAD MY RESUME</a>
+                <a href='https://drive.google.com/file/d/15T2UuvwClYGBFyVkqqcqaQ1PXIdKOOhp/view?usp=sharing' target="_blank" className='flat-button-2'>VIEW MY RESUME</a>
             </div>
             <Portfolio />
         </div>
