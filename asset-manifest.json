@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/isababa12.github.io/static/css/main.cc33d105.css",
-    "main.js": "/isababa12.github.io/static/js/main.69239c0a.js",
+    "main.js": "/isababa12.github.io/static/js/main.3e083467.js",
     "static/js/787.3fcb313d.chunk.js": "/isababa12.github.io/static/js/787.3fcb313d.chunk.js",
     "static/media/logo-s.png": "/isababa12.github.io/static/media/logo-s.8d1ca001eba091270eb6.png",
     "static/media/helvetica-neu.ttf": "/isababa12.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -12,11 +12,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/isababa12.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/isababa12.github.io/index.html",
     "main.cc33d105.css.map": "/isababa12.github.io/static/css/main.cc33d105.css.map",
-    "main.69239c0a.js.map": "/isababa12.github.io/static/js/main.69239c0a.js.map",
+    "main.3e083467.js.map": "/isababa12.github.io/static/js/main.3e083467.js.map",
     "787.3fcb313d.chunk.js.map": "/isababa12.github.io/static/js/787.3fcb313d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc33d105.css",
-    "static/js/main.69239c0a.js"
+    "static/js/main.3e083467.js"
   ]
 }
